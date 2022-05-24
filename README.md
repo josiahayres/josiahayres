@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Websockets and .NET API development.
 - 🤔 My GitHub contributions graph seems empty, as most of my dev work is done using enterprise & client GitHub accounts.
 - 📫 You can contact me at: josiahayres@gmail.com 
-
+- 📝 [Dev Blog posts](https://dev.to/josiahayres)
 ## Projects I've Built:
 
 ### Clocktime:
